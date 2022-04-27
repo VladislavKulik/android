@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">2</string>
+    <string name="hint_enter_text">Введите слово</string>
+    <string name="hint_submit">Подтвердить</string>
+    <string name="hint_skip">Пропустить</string>
+
+    <string name="toast_right">Правильно</string>
+    <string name="toast_wrong">Неверно</string>
+
+    <array name="list_of_words">
+        <item>Гвозди</item>
+        <item>Собака</item>
+        <item>Кошка</item>
+        <item>Ногти</item>
+        <item>Радио</item>
+        <item>Таблетка</item>
+        <item>Свет</item>
+        <item>Маленький</item>
+        <item>Слово</item>
+    </array>
+</resources>
