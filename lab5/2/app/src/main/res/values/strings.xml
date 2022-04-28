@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">4</string>
+    <string name="name_fragments_first">Первый</string>
+    <string name="name_fragments_second">Второй</string>
+    <string name="name_fragments_third">Третий</string>
+    <string-array name="array_name_fragments">
+    <item>Первый</item>
+    <item>Второй</item>
+    <item>Третий</item>
+</string-array>
+</resources>
